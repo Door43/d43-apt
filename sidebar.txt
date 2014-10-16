@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apt:home|Door43 (apt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apt|d43-apt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apt/archive/master.zip|d43-apt.zip]]
+
+**Recent Changes**
+{{changes>ns = apt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apt|Ethnologue data]]
+
